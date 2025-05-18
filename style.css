@@ -5,7 +5,7 @@
 
 .workplane {
     width: 100wv;
-    height: 60wv;
+    height: 100wv;
     display: flex;
     background-color: rgb(38, 161, 0);
 }
@@ -24,7 +24,7 @@
     height: 100%;
     display: grid;
     background-color: rgba(80, 80, 80);
-    grid-template-columns: repeat(120, 1fr);
+    grid-template-columns: repeat(240, 1fr);
     grid-template-rows: repeat(60, 1fr);
 }
 
