@@ -18,7 +18,7 @@ document.addEventListener('mouseup', function() {
 })
 
 
-for (let i = 0; i <14400; i+=1) {
+for (let i = 0; i <9000; i+=1) {
     let cell = document.createElement("div")
     cell.classList.add("cell")
     grids.appendChild(cell)
