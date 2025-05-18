@@ -21,7 +21,7 @@
 
 .drawplane {
     width: 90%;
-    height: 90%;
+    height: 75%;
     display: grid;
     background-color: rgba(80, 80, 80);
     grid-template-columns: repeat(200, 1fr);
