@@ -25,7 +25,7 @@
     display: grid;
     background-color: rgba(80, 80, 80);
     grid-template-columns: repeat(120, 1fr);
-    grid-template-rows: repeat(110, 1fr);
+    grid-template-rows: repeat(60, 1fr);
 }
 
 .cell {
