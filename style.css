@@ -31,8 +31,8 @@
 
 .cell {
     background-color: rgb(41, 41, 41);
-    width: (2/3)%;
-    height: 1%;
+    width: 10px;
+    height: 10px;
 }
 
 .colors {
