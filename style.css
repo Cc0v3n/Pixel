@@ -26,7 +26,7 @@
     background-color: rgba(80, 80, 80);
     grid-template-columns: repeat(180, 1fr);
     grid-template-rows: repeat(120, 1fr);
-    gap: 1wv;
+    grid-column-gap: 0;
 }
 
 .cell {
