@@ -27,6 +27,7 @@
     grid-template-columns: repeat(180, 1fr);
     grid-template-rows: repeat(100, 1fr);
     grid-column-gap: 0;
+    grid-rows-gap: 0;
 }
 
 .cell {
