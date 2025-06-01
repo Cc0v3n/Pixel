@@ -24,7 +24,7 @@
     height: 90%;
     display: grid;
     background-color: rgba(80, 80, 80);
-    grid-template-columns: repeat(45, 1fr);
+    grid-template-columns: repeat(180, 1fr);
     grid-template-rows: repeat(120, 1fr);
 }
 
